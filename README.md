@@ -1,4 +1,4 @@
-# Socila Media Application Login, Signup UI Using Flutter📱
+# Social Media Application Login, Signup UI Using Flutter📱
 
 Login, Signup UI Application using Flutter.
 
@@ -22,7 +22,7 @@ You can find the [Screenshot]() folder which includes the screenshots 📸 of sp
          flutter doctor
 - Create your first application using the below command
 
-         flutter create name_of_project
+      flutter create name_of_project
                               
 ## Dart files
 
