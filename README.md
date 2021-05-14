@@ -23,7 +23,7 @@ You can find the [Screenshot](https://github.com/iamdhrutipatel/Login-Signup-UI/
 - Create your first application using the below command:
 
       flutter create name_of_project
-- Run your first flutter apllicatio using the below commad:
+- Run your first flutter apllication using the below commad:
      
       flutter run
                               
