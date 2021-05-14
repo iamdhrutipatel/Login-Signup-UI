@@ -14,15 +14,18 @@ You can find the [Screenshot]() folder which includes the screenshots 📸 of sp
 - Set up Path for macOS :
   1. view hidden files using cmd+shift+. 
   2. open .bash_profile if you are using bash in Terminal or .zshrc if using zsh. 
-  3. Type the below command 
+  3. Type the below command:
 
          export PATH="$PATH:[PATH_OF_FLUTTER_GIT_DIRECTORY]/bin"
-  4. Save the file, Refresh the terminal and type below command to check if flutter is working or not
+  4. Save the file, Refresh the terminal and type below command to check if flutter is working or not:
   
          flutter doctor
-- Create your first application using the below command
+- Create your first application using the below command:
 
       flutter create name_of_project
+- Run your first flutter apllicatio using the below commad:
+     
+      flutter run
                               
 ## Dart files
 
