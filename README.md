@@ -7,7 +7,7 @@ This application was my first attempt towards flutter and UI development. I've c
 
 ## Screenshot
 
-You can find the [Screenshot]() folder which includes the screenshots 📸 of splash screen, login and signup for both android and ios devices. 
+You can find the [Screenshot](https://github.com/iamdhrutipatel/Login-Signup-UI/tree/main/Screenshot) folder which includes the screenshots 📸 of splash screen, login and signup for both android and ios devices. 
 
 ## How to get started?
 - Download [Flutter SDK](https://flutter.dev/docs/get-started/install). Select the operating system of your device and install the SDK.
@@ -29,4 +29,8 @@ You can find the [Screenshot]() folder which includes the screenshots 📸 of sp
                               
 ## Dart files
 
-You can find it in the [lib]() folder which includes all the .dart files. 
+You can find it in the [lib](https://github.com/iamdhrutipatel/Login-Signup-UI/tree/main/lib) folder which includes all the .dart files. 
+
+## Note
+
+To use this project as it is save the folder as <b>project</b> to avoid any errors.
